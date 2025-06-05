@@ -6,14 +6,14 @@
 <br>
 <h3> Gráficos 📊</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoramos478&show_icons=true&theme=dracula&include_all_comits=tru)
+![Anurag's GitHub Estatísticas](https://github-readme-stats.vercel.app/api?username=brunoramos478&show_icons=true&theme=dracula&include_all_comits=tru)
 
 
 <p>
   <img
     alt="GitHub"
     height="140"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramos478&theme=dracula&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramos478&theme=dracula&layout=compact&custom_title=Linguagens&langs_count=9"
     style="align: right-50px; margin-right: 10 ;"
   />
 </p>
