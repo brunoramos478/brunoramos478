@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩‍💻 Bruno Ramos
 
-<!--
-**brunoramos478/brunoramos478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor`** **`Programador`**
+### Olá me chamo Bruno, tenho 19 anos, sou natural de São Paulo, sou apaixonado por tecnologia e inovação ❤️ Movido pela determinação, sempre busco novas maneiras de transformar ideias em realidade, dessa forma, tendo certeza de que posso contribuir para um futuro mais inovador e revolucionário.📊
+***
+<br>
+<h3> Gráficos 📊</h3>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoramos478&show_icons=true&theme=dracula&include_all_comits=tru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramos478&theme=dracula&layout=compact)
+
