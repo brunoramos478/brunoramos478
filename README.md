@@ -9,5 +9,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoramos478&show_icons=true&theme=dracula&include_all_comits=tru)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramos478&theme=dracula&layout=compact)
+<p>
+  <img
+    alt="GitHub"
+    height="140"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramos478&theme=dracula&layout=compact"
+    style="align: right-50px; margin-right: 10 ;"
+  />
+</p>
 
