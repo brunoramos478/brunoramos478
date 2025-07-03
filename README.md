@@ -40,11 +40,11 @@
 
 <br clear="both">
 
-<img align="left" height="240" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"  />
+<img align="left" height="280" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"  />
 
 ###
 
-<div align="rigth">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=brunoramos478&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoramos478&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
