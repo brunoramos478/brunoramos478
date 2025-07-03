@@ -40,7 +40,8 @@
 
 <br clear="both">
 
-<img align="left" height="280" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"  />
+<img align="left" height="200" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"  />
+<br>
 
 ###
 
