@@ -6,6 +6,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+<img align="right" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png">
+
 ###
 
 <h1 align="left">Quem sou eu 😉</h1>
@@ -22,9 +24,12 @@
 
 <h2 align="left">Sou desenvolvedor Full Stack, busco transformar minhas ideias em soluções práticas integrando tecnologias como Java, Python, Node.js, JavaScript e SQL. Além disso, utilizo metodologias ágeis, como Git, GitHub e Kanban, para gerenciar projetos e entregar soluções de alta qualidade de maneira eficiente. Dessa forma, contribuo para um futuro mais inovador e revolucionário de forma escalável e dinâmica impactando positivamente na vida das pessoas.</h2>
 
+<img align="right" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png">
+
 ###
 
 <h1 align="left">Objetivo ✅</h1>
+
 
 ###
 
@@ -85,7 +90,9 @@
   <a href="https://www.linkedin.com/in/letcodbruno/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>   
+<img align="" height="30" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png">
 </div>
+
 
 ###
 
