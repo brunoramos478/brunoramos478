@@ -103,16 +103,6 @@
 
 ###
 
-## Ranking 🏆
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=brunoramos478&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p
-
-###
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoramos478&theme=dark" alt="GitHub Metrics" />
 </p>
@@ -129,6 +119,16 @@
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brunoramos478&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 </div>
+
+###
+
+## Ranking 🏆
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=brunoramos478&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p
 
 ###
 
