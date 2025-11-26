@@ -37,6 +37,9 @@
 
 ###
 
+
+  ###
+
 <h1 align="left">Skills ⚙️</h1>
 
 <img align="right" height="150" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"  />
@@ -97,6 +100,16 @@
 ###
 
 <h1 align="left">Gráficos 📊</h1>
+
+###
+
+## Ranking 🏆
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p
 
 ###
 
