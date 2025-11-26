@@ -122,16 +122,6 @@
 
 ###
 
-## Ranking 🏆
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=brunoramos478&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -145,6 +135,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+## Ranking 🏆
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=brunoramos478&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p
+
+###
+
 
 
 ###
