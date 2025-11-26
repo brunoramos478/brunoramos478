@@ -113,6 +113,12 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoramos478&theme=dark" alt="GitHub Metrics" />
+</p>
+
+###
+
 <br clear="both">
 
 <div align="left">
