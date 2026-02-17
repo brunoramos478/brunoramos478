@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Sou desenvolvedor Full Stack, busco transformar minhas ideias em soluções práticas integrando tecnologias como Java, Python, Node.js, JavaScript e SQL. Além disso, utilizo metodologias ágeis, como Git, GitHub e Kanban, para gerenciar projetos e entregar soluções de alta qualidade de maneira eficiente. Dessa forma, contribuo para um futuro mais inovador e revolucionário de forma escalável e dinâmica impactando positivamente na vida das pessoas.</h2>
+<h2 align="left">Sou desenvolvedor Full Stack, busco transformar ideias em soluções práticas integrando tecnologias como Java, Python, Node.js, JavaScript e SQL. Além disso, utilizo metodologias ágeis, como Git, GitHub e Kanban, para gerenciar projetos e entregar soluções de alta qualidade de maneira eficiente. Dessa forma, contribuo para um futuro mais inovador e revolucionário de forma escalável e dinâmica impactando positivamente na vida das pessoas.</h2>
 
 <img align="right" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png">
 
