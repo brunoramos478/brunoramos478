@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Olá me chamo Bruno, tenho 19 anos, sou natural de São Paulo, sou apaixonado por tecnologia e inovação ❤️ Movido pela determinação, sempre busco novas maneiras de transformar ideias em realidade, dessa forma, tendo certeza de que posso contribuir para um futuro mais inovador e revolucionário.</h2>
+<h2 align="left">Olá me chamo Bruno, tenho 20 anos, sou natural de São Paulo, sou apaixonado por tecnologia e inovação ❤️ Movido pela determinação, sempre busco novas maneiras de transformar ideias em realidade, dessa forma, tendo certeza de que posso contribuir para um futuro mais inovador e revolucionário.</h2>
 
 ###
 
