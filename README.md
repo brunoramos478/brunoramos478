@@ -108,7 +108,6 @@ Sou **Engenheiro de Software** com foco no ecossistema **Java & Spring Boot**, d
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-###
 
 ## Ranking 🏆
 
