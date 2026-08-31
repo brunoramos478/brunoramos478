@@ -1,6 +1,4 @@
-<h1 align="left">Bruno Ramos 👨‍💻</h1>
-
-###
+<h1 align="center">Bruno Ramos 👨‍💻</h1>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
@@ -8,37 +6,21 @@
 
 <img align="right" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png">
 
-####
+## 💫 Sobre Mim
 
-<h1 align="left">Quem sou eu 😉</h1>
+Sou **Engenheiro de Software** com foco no ecossistema **Java & Spring Boot**, desenvolvimento de arquiteturas escaláveis, microsserviços e integração com bancos de dados relacionais (**SQL**).
 
-###
+* 💻 **Backend:** Desenvolvimento de APIs robustas com **Java** e **Spring Boot**.
 
-<h2 align="left">Olá me chamo Bruno, tenho 20 anos, sou natural de São Paulo, sou apaixonado por tecnologia e inovação ❤️ Movido pela determinação, sempre busco novas maneiras de transformar ideias em realidade, dessa forma, tendo certeza de que posso contribuir para um futuro mais inovador e revolucionário.</h2>
+* 🗄️ **Banco de Dados & Dados:** Modelagem e otimização com **SQL** e bancos relacionais.
 
-###
+* 🐳 **DevOps & Containers:** Conteinerização de serviços e ambientes locais com **Docker**.
 
-<h1 align="left">O que eu faço 📋</h1>
-
-###
-
-<h2 align="left">Sou desenvolvedor Full Stack, busco transformar ideias em soluções práticas integrando tecnologias como Java, Python, Node.js, JavaScript e SQL. Além disso, utilizo metodologias ágeis, como Git, GitHub e Kanban, para gerenciar projetos e entregar soluções de alta qualidade de maneira eficiente. Dessa forma, contribuo para um futuro mais inovador e revolucionário de forma escalável e dinâmica impactando positivamente na vida das pessoas.</h2>
+* 📍 **Localização:** Brasil 🇧🇷
 
 <img align="right" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png">
 
-###
-
-<h1 align="left">Objetivo ✅</h1>
-
-
-###
-
-<h2 align="left">Foco em transformar ideias em soluções práticas. Utilizando um conjunto de tecnologias modernas para o desenvolvimento de software. Busco ativamente por novos desafios  aonde posso está colocando meus conhecimentos em praticas para contribuir em projetos desafiadores, impactar positivamente a vida das pessoas e evoluir continuamente em um ambiente dinâmico."</h2>
-
-###
-
-
-  ###
+<br>
 
 <h1 align="left">Skills ⚙️</h1>
 
@@ -49,20 +31,18 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" height="45" alt="express logo"  />
-  
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" height="45" alt="express logo"  />
+
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" height="45" alt="express logo"  />
-  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/RabbitMQ-Dark.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" height="45" alt="express logo"  />
-  <br>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" height="45" alt="express logo"  />
+
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" height="45" alt="express logo"  />
-  
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" height="45" alt="express logo"  />
- 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" height="45" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" height="45" alt="express logo"  />
 </div>
@@ -101,13 +81,11 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
  <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brunoramos478&theme=dark&show_icons=true&count_private=true">
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brunoramos478&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brunoramos478&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=12"></td></tr></tbody></table>
-
 </div>
 
 ###
