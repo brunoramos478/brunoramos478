@@ -6,7 +6,7 @@
 
 <img align="right" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png">
 
-## 💫 Sobre Mim
+# 💫 Sobre Mim
 
 Sou **Engenheiro de Software** com foco no ecossistema **Java & Spring Boot**, desenvolvimento de arquiteturas escaláveis, microsserviços e integração com bancos de dados relacionais (**SQL**).
 
