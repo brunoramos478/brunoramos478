@@ -125,9 +125,10 @@ Sou **Engenheiro de Software** com foco no ecossistema **Java & Spring Boot**, d
 
 <div align="center">
   <a href="https://open.spotify.com/user/3155pd2gygm7t6bxmj3zcof6tapy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3155pd2gygm7t6bxmj3zcof6tapy&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=3155pd2gygm7t6bxmj3zcof6tapy&count=1&radius=24&album=1&bg_color=1a1f23" alt="Spotify recently played"  />
   </a>
 </div>
+
 
 ###
 
